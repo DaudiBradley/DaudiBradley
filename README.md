@@ -12,4 +12,4 @@ soon to be a Software Developer.
 - 📫 How to reach me: DAUDIBRADLEY ON LINKEDIN.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: R-studio is my wife.
--->
+
