@@ -1,6 +1,6 @@
 
 ### My name is DaudiBradley.
-I am a Data Analyst and programmer
+**I am a Data Analyst and programmer
 soon to be a Software Developer.
 
 
