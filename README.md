@@ -1,7 +1,7 @@
 
 ### My name is DaudiBradley.
 I am a Data Analyst and programmer
-soonto be software Ddeveloper.
+soon to be a Software Developer.
 
 
 - 🔭 I’m currently  working on  a text mining project with R.
