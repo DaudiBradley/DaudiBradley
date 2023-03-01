@@ -1,7 +1,8 @@
-### Hi there 👋
-**DaudiBradley/DaudiBradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My name is DaudiBradley.
+I am a Data Analyst and programmer
+soonto be software Ddeveloper.
+
 
 - 🔭 I’m currently  working on  a text mining project with R.
 - 🌱 I’m currently learning python. 
