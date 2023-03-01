@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with learning more on python.
 - 💬 Ask me about anything you need with R. 
-- 📫 How to reach me: DAUDIBRADLEY ON LINKEDIN.
+- 📫 How to reach me: https://www.linkedin.com/in/bradley-daudi-aa2ab564/
 - 😄 Pronouns: He.
 - ⚡ Fun fact: R-studio is my wife.
 
